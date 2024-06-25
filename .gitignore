@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#segure
+src/api/token/rote.js
+
 # testing
 /coverage
 
