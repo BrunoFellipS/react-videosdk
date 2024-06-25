@@ -1,11 +1,9 @@
-import { Fragment } from "react";
 
-async function App() {
-  const token = await fetch('api/token')
+
+function App() {
   return (
-<Fragment>
-
-</Fragment>
+    <div className="App">
+    </div>
   );
 }
 
